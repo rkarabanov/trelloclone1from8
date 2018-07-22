@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/.idea/workspace.xml
 
 # testing
 /coverage
@@ -11,6 +12,8 @@
 
 #keys
 /src/const/firebaseKey.js
+
+
 
 # misc
 .DS_Store
